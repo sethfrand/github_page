@@ -2,32 +2,41 @@
 title: "About Me"
 ---
 
+<img alt="Seth Frandsen" src="professional_headshot.jpg"/>
+
 ## Background
 
-Write a brief introduction about yourself here. Include:
-
-- Your academic background
-- Your interest in data science
-- Your career goals
-- Any relevant experience or projects
+- Studying data science at Brigham Young University, Minoring in Russian
+- Interested in National Security, Cybersecurity, and Data Science
+- Hope to work for a government agency in the future
 
 ## Education
 
-- **[Your Degree]** - [University Name], [Year]
+- **Computer Science: Data Science** - Brigham Young University, 2027
 - **Relevant Coursework**: Statistics, Data Analysis, Programming, etc.
 
 ## Skills & Interests
+- Interested in learning more about data science, analytics, and visualization.
+- Love to learn new programming languages and tools.
+- Love to learn foreign languages as they open up new opportunities and allow me to connect with more people.
 
 ### Technical Skills
-- **Programming**: Python
-- **Data Analysis**: Pandas, NumPy
+- **Programming**: Python, C++, C, Java
+- **Data Analysis**: Pandas, NumPy, SQL
 - **Visualization**: Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn
-- **Tools**: Jupyter Notebooks, Git/GitHub
+- **Machine Learning**: Scikit-learn, TensorFlow (beginner)
+- **Data Collection**: Web scraping, APIs
+- **Tools**: Jupyter Notebooks, Git/GitHub, VS Code, Quarto, JetBrains, Clion, Arduino IDE, Truenas
 
 ### Areas of Interest
-- [Your specific interests, e.g., environmental data, healthcare analytics, finance, etc.]
-- [Other areas you're curious about]
+- National Security
+- Cybersecurity
+- Data Science
+- Machine Learning
+- Foreign Languages (Russian, Polish, Chinese)
+- Deep Learning
+- Artificial Intelligence
+
 
 ## Goals
 
@@ -39,10 +48,9 @@ Describe what you hope to achieve through your data science journey:
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email**: Sethp.frandsen@gmail.com
+- **GitHub**: [github.com/your-sethfrand](https://github.com/sethfrand)
+- **LinkedIn**: [linkedin.com/in/seth-frand-sf](https://www.linkedin.com/in/seth-frandsen-sf)
 
----
 
 *This portfolio showcases my learning progress and projects completed during my data science studies.*
