@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  site-url: https://sethfrand.io/github_page/
   title: "Your Name - Data Science Portfolio"
   description: "A showcase of my data science projects and learning journey"
   
